@@ -7,7 +7,7 @@ Flying Fish assumptions:
 Rocket body diameter is 0.08 m.
 Rocket body mass is 0.75 kg.
 After apogee the vector falls 5 meters before assuming a state of glide.
-Glide ratio (altitude drop to horizontal distance traversed) after apogee is 1:3.
+Glide ratio (altitude drop to horizontal distance traversed) after apogee is 1:4.
 
 
 PaIRS assumptions:
@@ -15,7 +15,7 @@ PaIRS assumptions:
 Rocket body diameter is 0.10 m.
 Rocket body mass is 1.00 kg.
 After apogee the vector instantly assumes a state of glide.
-Glide ratio (altitude drop to horizontal distance traversed) after apogee is 1:2.
+Glide ratio (altitude drop to horizontal distance traversed) after apogee is 1:3.
 
 
 SPEAR assumptions:
